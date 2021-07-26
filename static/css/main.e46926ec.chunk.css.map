@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,MACE,WAAY,CACZ,SAAU,CACV,YAAa,CACb,iBAAkB","file":"main.e46926ec.chunk.css","sourcesContent":[".card {\n  margin: auto;\n  width: 30%;\n  padding: 16px;\n  text-align: center;\n}\n"]}
